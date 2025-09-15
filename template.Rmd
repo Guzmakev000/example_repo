@@ -1,6 +1,8 @@
 ---
 title: "Simple document"
 output: html_document
+date: 09-10-2025
+author: Kevin Guzman
 ---
 
 I'm an R Markdown document! 
@@ -14,6 +16,17 @@ a _normal distribution_:
 samp = rnorm(100)
 length(samp)
 ```
+
+```{r}
+a <- 3+3
+a
+```
+
+```{r}
+b <- 5+5
+b
+```
+
 
 # Section 2
 
