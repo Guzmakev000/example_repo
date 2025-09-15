@@ -1,6 +1,6 @@
 ---
 title: "Simple document"
-output: html_document
+output: github_document
 date: 09-10-2025
 author: Kevin Guzman
 ---
